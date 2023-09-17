@@ -13,6 +13,7 @@ We can classify them by purpose into creational (abstract the instantiation proc
 
 ## References
 Design patterns in this repository are based on
+* [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp/tree/master)
 * [Design Patterns In Modern C++ 中文版翻译](https://github.com/liuzengh/design-pattern/tree/main)
 * [Design Patterns by The "Gang of Four"](https://en.wikipedia.org/wiki/Design_Patterns)
 * [Head First: Design Patterns](http://www.headfirstlabs.com/books/hfdp/)
